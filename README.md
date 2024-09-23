@@ -1,4 +1,5 @@
 ## Hi there 👋
+somos da turma do primeiro c, e número 11 e 12
 
 <!--
 **ManuRosa005/ManuRosa005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
